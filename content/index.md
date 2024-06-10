@@ -14,7 +14,7 @@ struct victor {
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
 # hi
 
-### my name is <span style="color:#ffb7c5">victor liu</span>
+<h3>my name is <span style="color:#ffb7c5">victor liu</span></h3>
 
 Currently, a Computer Engineering student at University of Maryland.
 
@@ -23,11 +23,11 @@ I'm passionate in <span style="color:#ffb7c5"><b>systems software engineering</b
 # experience
 
 In-development list while I fill in details
-## FPGA Engineer - Computer Architecture and Systems Lab
+#### FPGA Engineer - Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
-## Software and Hardware Engineer - Terps Racing EV
+#### Software and Hardware Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team
-## Software Engineer Intern - AstraZeneca
+### Software Engineer Intern - AstraZeneca
 Automation Engineering Team
 
 # working on
