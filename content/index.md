@@ -1,11 +1,10 @@
 ---
-title: Quartz - Victor Liu
+title: Welcome to Quartz
 ---
 
-```cpp
-struct victor {
-	string programming[] = {"C/C++", "Python", "Java", "JavaScript"},
-	string hardware[] = {"Verilog", "RISC Assembly", "FPGA", "Vivado"},
-	string others[] = {"Linux", "SQL"},
-}
-```
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+# Testing this to show up.
+
+Hello
