@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: Victor Liu
 ---
 ```cpp
 // hi
@@ -17,19 +17,20 @@ struct victor {
 ### my name is <span style="color:#ffb7c5">victor liu</span>
 
 Currently, a Computer Engineering student at University of Maryland.
+
 I'm passionate in <span style="color:#ffb7c5"><b>systems software engineering</b></span> and <span style="color:#ffb7c5"><b>FPGA engineering</b></span> and topics such as *computer architecture* and *operating systems*.
 
-### experience
+# experience
 
 In-development list while I fill in details
-#### FPGA Engineer - Computer Architecture and Systems Lab
+## FPGA Engineer - Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
-#### Software and Hardware Engineer - Terps Racing EV
+## Software and Hardware Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team
-#### Software Engineer Intern - AstraZeneca
+## Software Engineer Intern - AstraZeneca
 Automation Engineering Team
 
-### working on
+# working on
 
 learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
