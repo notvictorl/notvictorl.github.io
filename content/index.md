@@ -27,7 +27,7 @@ In-development list while I fill in details
 University of Maryland (UMIACS) Research Group
 #### Software and Hardware Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team
-### Software Engineer Intern - AstraZeneca
+#### Software Engineer Intern - AstraZeneca
 Automation Engineering Team
 
 # working on
