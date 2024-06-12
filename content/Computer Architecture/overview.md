@@ -1,5 +1,6 @@
 ---
-title: Computer Architecture
+title: Overview
 ---
-self study notes
+some self study notes
+
 Textbook: Computer Architecture - A Quantitative Approach
