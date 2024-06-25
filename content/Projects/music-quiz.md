@@ -1,0 +1,18 @@
+---
+title: Music Quiz
+---
+![[Pasted image 20240625172433.png]]
+
+[GitHub](https://github.com/fetf/music-quiz)
+
+> Discord bot that plays music and allows you to guess the song and artist in chat.
+
+I built the discord bot with a friend in Node.js to create a better version of the game based on similar music quizzes we have played before.
+
+Some notable difficulties and achievements were:
+
+1. **Implementation of command handler to better manage increasing size of code and distribute functionality.** Instead of terribly organized if/else statements, command handler was implemented but also required global variables and functions tied to objects, which made use of multi-paradigm properties I learned in class.
+
+2. **Extensive use of Regex for the best possible open-response guessing experience.** A lot of titles include featured artists, alternative titles, mixed languages, or movie titles, so I had to adjust to a lot of different types of song titles and allow for the commonly known correct title(s) to be guessed. Additionally, minor spelling mistakes were allowed to give points for typos or alternate word spellings (British English).
+
+3. **A LOT of work to get the right audio, song title, and artist.** Bugs kept popping up when playing music quiz games where the one of the song info was incorrect, so a lot of work was done to make sure the right audio plays and for that song the bot is checking for the right artist and right song title with a proper album cover. Otherwise, it's a huge gameplay bug.
