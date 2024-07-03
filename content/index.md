@@ -1,5 +1,7 @@
 ---
-title: Victor Liu
+title: hi
+cssclasses:
+  - color:#ffb7c5
 ---
 ```cpp
 // hi
@@ -12,9 +14,8 @@ struct victor {
 ```
 
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
-# hi
 
-<h3>my name is <span style="color:#ffb7c5">victor liu</span></h3>
+<h1>my name is <span style="color:#ffb7c5">victor liu</span></h1>
 
 Currently, a Computer Engineering student at University of Maryland.
 
