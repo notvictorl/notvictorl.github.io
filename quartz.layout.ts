@@ -46,3 +46,9 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
+Component.Explorer({
+  title: "Explorer", // title of the explorer component
+  folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+  folderDefaultState: "open", // default state of folders ("collapsed" or "open")
+})
