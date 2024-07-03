@@ -1,5 +1,5 @@
 ---
-title: Overview
+title: Computer Architecture
 ---
 some self study notes
 
