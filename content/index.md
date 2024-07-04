@@ -16,6 +16,9 @@ struct victor {
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
 
 # hi
+```poetry
+Welcome!
+```
 <h3>my name is <span style="color:#ffb7c5">victor liu</span></h3>
 
 Currently, a Computer Engineering student at University of Maryland.
@@ -36,8 +39,9 @@ Automation Engineering Team
 
 # working on
 
-learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
+[[FPGA/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
-for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
+[[music-quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
 figuring out how to cook good meals outside of just frozen food 🍳
+mostly cooking japanese food
