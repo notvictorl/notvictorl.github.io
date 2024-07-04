@@ -7,8 +7,8 @@ cssclasses:
 // hi
 struct victor {
 	string programming[] = {"C/C++", "Java", "Python", "JavaScript"},
-	string hardware[] = {"Verilog", "FPGA", "SystemVerilog"},
-	string hobbies[] = {"cooking", "reading", "puzzle games"}
+	string hardware[] = {"Verilog", "FPGAs", "SystemVerilog"},
+	string hobbies[] = {"cooking", "reading", "music", "puzzle games"}
 	// and more...
 }
 ```
@@ -41,4 +41,5 @@ Automation Engineering Team
 [[music-quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
 figuring out how to cook good meals outside of just frozen food 🍳
+
 mostly cooking japanese food
