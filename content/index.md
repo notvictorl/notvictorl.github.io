@@ -1,12 +1,9 @@
 ---
 title: Victor Liu
-cssclasses:
-  - color:#ffb7c5
 ---
-<img src="./banner.svg" width="701" height="183">
+# hi
 
 ```cpp
-// hi
 struct victor {
 	string programming[] = {"C/C++", "Java", "Python", "JavaScript"},
 	string hardware[] = {"Verilog", "FPGAs", "SystemVerilog"},
@@ -17,7 +14,6 @@ struct victor {
 
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
 
-# hi
 <h3>my name is <span style="color:#ffb7c5">victor liu</span></h3>
 
 Currently, a Computer Engineering student at University of Maryland.
