@@ -1,6 +1,7 @@
 ---
 title: Victor Liu
 ---
+![[banner.svg]]
 # hi
 
 ```cpp
