@@ -3,6 +3,8 @@ title: Victor Liu
 cssclasses:
   - color:#ffb7c5
 ---
+<img src="./banner.svg" width="701" height="183">
+
 ```cpp
 // hi
 struct victor {
@@ -38,8 +40,7 @@ Automation Engineering Team
 
 [[FPGA/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
-[[music-quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
+[[music quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
 figuring out how to cook good meals outside of just frozen food 🍳
-
 mostly cooking japanese food

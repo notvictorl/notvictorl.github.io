@@ -19,4 +19,4 @@ Some notable difficulties and achievements were:
 3. **A LOT of work to get the right audio, song title, and artist.** Bugs kept popping up when playing music quiz games where the one of the song info was incorrect, so a lot of work was done to make sure the right audio plays and for that song the bot is checking for the right artist and right song title with a proper album cover. Otherwise, it's a huge gameplay bug.
 
 Our go to song:
-<iframe style="border-radius:11px" src="https://open.spotify.com/embed/track/1000nHvUdawXuUHgBod4Wv?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:11px" src="https://open.spotify.com/embed/track/1000nHvUdawXuUHgBod4Wv?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; fullscreen; picture-in-picture" loading="lazy"></iframe>
