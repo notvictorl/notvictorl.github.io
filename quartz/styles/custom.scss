@@ -25,6 +25,10 @@ body {
 [saved-theme="dark"] body[data-slug="index"] img[src*="banner.svg"] {
     filter: invert(100%);
 }
+
+[saved-theme="light"] body[data-slug="index"] span[class*="bw"] {
+    color: black
+}
   
 // body[data-slug="thoughts/craft"] {
 //     & li:has(> img, > video) {
