@@ -2,7 +2,7 @@
 title: Music Quiz
 date: 2024-06-25
 ---
-![[Pasted image 20240625172433.png]]
+![[music-quiz.png]]
 
 [GitHub](https://github.com/fetf/music-quiz)
 
