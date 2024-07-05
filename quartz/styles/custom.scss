@@ -29,6 +29,9 @@ body {
 [saved-theme="light"] body[data-slug="index"] span[class*="bw"] {
     color: black;
 }
+[saved-theme="dark"] body[data-slug="index"] span[class*="bw"] {
+    color: white;
+}
   
 // body[data-slug="thoughts/craft"] {
 //     & li:has(> img, > video) {

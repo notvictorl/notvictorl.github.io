@@ -22,7 +22,7 @@ struct victor {
 Currently, a Computer Engineering student at University of Maryland.
 
 I'm passionate in <span style="color:#ffb7c5"><b>low-level software engineering</b></span> and <span style="color:#ffb7c5"><b>FPGA engineering</b></span>  
-and topics such as <span class="bw" style="color:white"><i>computer architecture</i></span> and <span class="bw" style="color:white"><i>operating systems</i></span>.
+and topics such as <span class="bw"><i>computer architecture</i></span> and <span class="bw"><i>operating systems</i></span>.
 
 here you can find a bit about me, a showcase of my crafts, and a notebook on a few of my thoughts.
 
