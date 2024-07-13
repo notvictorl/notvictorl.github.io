@@ -19,7 +19,8 @@ struct victor {
 
 <h3>my name is <span style="color:#ffb7c5">victor liu</span></h3>
 
-Currently, a Computer Engineering student at University of Maryland.
+Currently, a Computer Engineering student at University of Maryland.  
+(ECE / EECS major at other schools)
 
 I'm passionate in <span style="color:#ffb7c5"><b>low-level software engineering</b></span> and <span style="color:#ffb7c5"><b>FPGA engineering</b></span>  
 and topics such as <span class="bw"><i>computer architecture</i></span> and <span class="bw"><i>operating systems</i></span>.
