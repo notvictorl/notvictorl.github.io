@@ -41,7 +41,7 @@ Automation Engineering Team
 
 [[fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
-[[c to verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, trying to understand the development 
+[[c to verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, but a much smaller scale. trying to understand the development of these tools mostly
 
 [[music quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 

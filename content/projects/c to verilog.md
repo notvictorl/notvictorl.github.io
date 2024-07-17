@@ -6,6 +6,9 @@ date: 2024-07-13
 > I am still drafting this and could be one of my hardest projects so who knows how this goes.  
 > For now it is my thoughts alone and how far I am taking the project.
 
+> "If I wrote my code in something like C++, I would still be writing code."  
+> — Shane from *Stuff Made Here*
+
 So, I want to build a C to HDL tool or high-level synthesis in general, but designing one proves to be much harder than anticipated.
 
 I was thinking of maybe switching to programming this in OCaml as I am most familiar with designing a compiler in that currently from CMSC330.
