@@ -1,8 +1,7 @@
 ---
 title: Victor Liu
 ---
-<img src="./banner.svg" width="701" height="183">
-
+<img src="./branch.png" width="700" height="180">
 # hi
 
 ```cpp
@@ -30,7 +29,7 @@ here you can find a bit about me, a showcase of my crafts, and a notebook on a f
 # experience
 
 In-development list while I fill in details
-#### FPGA Engineer - Computer Architecture and Systems Lab
+#### FPGA Engineer- Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
 #### Software and Hardware Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team
@@ -40,6 +39,8 @@ Automation Engineering Team
 # working on
 
 [[fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
+
+[[c to verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, trying to understand the development 
 
 [[music quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
