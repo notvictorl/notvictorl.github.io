@@ -22,7 +22,7 @@ body {
     mix-blend-mode: overlay;
 }
   
-[saved-theme="dark"] body[data-slug="index"] img[src*="branch.png"] {
+[saved-theme="dark"] body[data-slug="index"] img[src*="branch.svg"] {
     filter: invert(100%);
 }
 
