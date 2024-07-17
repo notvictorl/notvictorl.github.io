@@ -17,7 +17,7 @@ struct victor {
 
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
 
-<h3>my name is <span style="color:#ffb7c5">victor liu</span></h3>
+<h2>my name is <span style="color:#ffb7c5">victor liu</span></h2>
 
 Currently, a Computer Engineering student at University of Maryland.  
 (ECE / EECS major at other schools)
@@ -30,7 +30,7 @@ here you can find a bit about me, a showcase of my crafts, and a notebook on a f
 # experience
 
 In-development list while I fill in details
-#### FPGA Engineer- Computer Architecture and Systems Lab
+#### FPGA Engineer - Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
 #### Software and Hardware Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team

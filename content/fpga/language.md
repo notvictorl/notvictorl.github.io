@@ -11,6 +11,8 @@ A good podcast that discusses this is from Ron Minsky and Andy Ray on [Signals a
 
 Why would we want to do this and what are the differences between development processes?
 # HLS
-
+[Wikipedia](https://en.wikipedia.org/wiki/High-level_synthesis)
 # Hardcaml
+[GitHub](https://github.com/janestreet/hardcaml)
 # Rust-HDL
+[Website](https://rust-hdl.org/)
