@@ -9,7 +9,7 @@ title: Victor Liu
 // hi!
 struct victor {
 	string programming[] = {"C/C++", "Java", "Python", "JavaScript"},
-	string hardware[] = {"Verilog", "FPGAs", "SystemVerilog"},
+	string hardware[] = {"Verilog", "FPGA", "SystemVerilog"},
 	string hobbies[] = {"cooking", "reading", "music", "puzzle games"}
 	// and more...
 }
@@ -29,14 +29,18 @@ here you can find a bit about me, a showcase of my crafts, and a notebook on a f
 
 # experience
 
-In-development list while I fill in details
-#### FPGA Engineer - Computer Architecture and Systems Lab
+#### FPGA Engineering Intern - Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
+
+Skills: Verilog, C++, HLS, Xilinx Vivado
 #### Software and Hardware Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team
+
+Skills: Embedded Systems / Microcontrollers, C, Hardware testing
 #### Software Engineer Intern - AstraZeneca
 Automation Engineering Team
 
+Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
 # working on
 
 [[fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
