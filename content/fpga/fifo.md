@@ -1,4 +1,4 @@
 ---
-title: State Machine
+title: FIFO
 draft: "true"
 ---

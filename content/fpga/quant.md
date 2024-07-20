@@ -4,15 +4,21 @@ date: 2024-07-17
 ---
 Taking this note to explore how FPGAs can be used in quant trading / HFT (no experience in finance).
 
-References:
-[The Data Bus](https://thedatabus.in/hft_interview) (goes into a lot of financial detail which is very interesting and explains it way better than I ever could)
+I will often quote straight from articles if I don't have a good understanding of what statements mean.
 
+---
+References:
+[[1] The Data Bus](https://thedatabus.in/hft_interview) (goes into a lot of financial detail which is very interesting and explains it way better than I ever could)
+
+---
+
+To start, why are FPGAs used in trading?
 ## Why not CPUs?
-CPUs have two issues that make them suboptimal for HFT:
+CPUs have two issues that make them suboptimal for certain tasks in HFT:
 1. CPU needs to turn algorithms in to the ISA and execute sequentially, which has a lot of overhead
 2. CPU is indeterministic due to the OS running processes and threads
-## FPGAs in trading
-FPGAs solve indeterminism by being able to know the clock cycles and no ISA overhead, but it does not do complex math well so we still need software.
+## FPGAs in Trading
+FPGAs solve indeterminism by being able to know the clock cycles and no ISA overhead, but it does not do complex math well so we still need software (so knowledge of CPU and [[computer architecture/index|computer organization (ENEE350)]] is great).
 
 
 ```mermaid
@@ -26,7 +32,7 @@ flowchart LR
 	dmd-->md-->so
 ```
 
-However, much of the sub-functions that make up this pipeline can be optimized by FPGAs.
+However, much of the sub-functions that make up this pipeline can be accelerated by FPGAs.
 
 ```mermaid
 ---
@@ -46,10 +52,41 @@ flowchart LR
 ```
 
 # Skills of an HFT FPGA Engineer
-Now to the meat of what an FPGA Engineer does in quant
+Now to the meat of what an FPGA Engineer does in quant and what skills will be challenged at the interview stage  
+Many of these skills can align with skills mentioned in [[skills|FPGA Skills]]
+
+## RTL Design
+> RTL: Register-Transfer Level
+
+**Proficiency in digital logic, Verilog, and microarchitecture development are essential skills in RTL and FPGA design.**
+
+### Interview
+RTL is done in the abstraction of hardware description languages (HDL) such as Verilog and VHDL so being able to read, write, debug, and deploy often Verilog code (preferred language) is necessary even at the interview stage.
+
+Unlike other FPGA jobs (often in defense or network industries), interview challenges not just RTL skills but IQ with challenging puzzles as technical problems.  
+Alongside puzzles, sometimes assignments are given for the interview: "This often includes implementing the problem statement in RTL and writing code to verify it." [\[1\]](https://thedatabus.in/hft_interview)
+
+[More RTL Design Interview Tips](https://thedatabus.in/interview_list)
+### Low Latency
+An important focus of FPGAs and Software in HFT is achieving low latency.  
+This is achieved by writing code that takes less cycles to do a task through problem-solving different optimizations and low latency alternatives "while keeping it reasonable enough to be implemented within the timing constraints." [\[1\]](https://thedatabus.in/hft_interview)
+### [[fsm|State Machine]]
+State Machines are very common block used in digital logic (so FPGAs and sometimes software) and can be used for a lot of purposes.
+
+State Machines are fundamentally a set of states and take inputs that transition them to other possible states.
+### [[fifo|FIFO]]
+FIFOs additionally are very common in digital logic with both synchronous and asynchronous. You may know FIFO as First In, First Out from queue data structures in software. 
+
+Similarly, FIFOs are used as data buffers and manage pipelines in certain architectures.
+
+## Verification
 ## Data processing
 
-## Ethernet
+## Network
+
+### Ethernet
+
+### PCIe
 
 ## HLS Algorithms
 

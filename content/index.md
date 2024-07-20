@@ -17,7 +17,7 @@ struct victor {
 
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
 
-<h2>my name is <span style="color:#ffb7c5">victor liu</span></h2>
+<h1>my name is <span style="color:#ffb7c5">victor liu</span></h1>
 
 Currently, a Computer Engineering student at University of Maryland.  
 (ECE / EECS major at other schools)
