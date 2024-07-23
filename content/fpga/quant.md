@@ -8,7 +8,7 @@ I will often quote straight from articles if I don't have a good understanding o
 
 ---
 References:  
-\[1\] [The Data Bus](https://thedatabus.in/hft_interview) (goes into a lot of financial detail which is very interesting and explains it way better than I ever could) ^1
+[^1] [The Data Bus](https://thedatabus.in/hft_interview) (goes into a lot of financial detail which is very interesting and explains it way better than I ever could)
 
 ---
 
@@ -64,12 +64,12 @@ Many of these skills can align with skills mentioned in [[skills|FPGA Skills]]
 RTL is done in the abstraction of hardware description languages (HDL) such as Verilog and VHDL so being able to read, write, debug, and deploy often Verilog code (preferred language) is necessary even at the interview stage.
 
 Unlike other FPGA jobs (often in defense or network industries), interview challenges not just RTL skills but IQ with challenging puzzles as technical problems.  
-Alongside puzzles, sometimes assignments are given for the interview: "This often includes implementing the problem statement in RTL and writing code to verify it." [[#^1|[1]]]
+Alongside puzzles, sometimes assignments are given for the interview: "This often includes implementing the problem statement in RTL and writing code to verify it." [^1]
 
 [More RTL Design Interview Tips](https://thedatabus.in/interview_list)
 ### Low Latency
 An important focus of FPGAs and Software in HFT is achieving low latency.  
-This is achieved by writing code that takes less cycles to do a task through problem-solving different optimizations and low latency alternatives "while keeping it reasonable enough to be implemented within the timing constraints." [[#^1|[1]]]
+This is achieved by writing code that takes less cycles to do a task through problem-solving different optimizations and low latency alternatives "while keeping it reasonable enough to be implemented within the timing constraints." [^1]
 ### [[fsm|State Machine]]
 State Machines are very common block used in digital logic (so FPGAs and sometimes software) and can be used for a lot of purposes.
 
