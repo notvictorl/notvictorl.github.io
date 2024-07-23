@@ -2,7 +2,7 @@
 title: State Machines
 date: 2024-07-19
 ---
-State machines are the most common building block for control logic and is used in simple to complex modules.  [^1]
+State machines are the most common building block for control logic and is used in simple to complex modules.[^1]  
 > Example: Regular Expressions from CMSC330
 
 ## Mealy Machine
@@ -11,6 +11,6 @@ State machines are the most common building block for control logic and is used 
 
 ---
 References:
-[^1] [The Data Bus](https://thedatabus.in/interview_list)
-[^2] ENEE245
-[^3] CMSC330
+[^1]: [The Data Bus](https://thedatabus.in/interview_list)
+[^2]: ENEE245
+[^3]: CMSC330
