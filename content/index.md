@@ -8,11 +8,11 @@ title: Victor Liu
 ```cpp
 // hi!
 struct victor {
-	string programming[] = {"C/C++", "Java", "Python", "JavaScript"},
-	string hardware[] = {"Verilog", "FPGA", "SystemVerilog"},
-	string hobbies[] = {"cooking", "reading", "music", "puzzle games"}
+	string programming[] = {"C/C++", "Java", "Python", "JavaScript"};
+	string hardware[] = {"Verilog", "FPGA", "SystemVerilog"};
+	string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
 	// and more...
-}
+};
 ```
 
 [GitHub](https://github.com/notvictorl) [LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
@@ -45,7 +45,7 @@ Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
 
 [[fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
-[[c to verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, but a much smaller scale. trying to understand the development of these tools mostly
+[[c-to-verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, but a much smaller scale. trying to understand the development of these tools mostly
 
 [[music quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
