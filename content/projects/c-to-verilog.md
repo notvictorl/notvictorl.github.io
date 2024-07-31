@@ -1,9 +1,12 @@
 ---
 title: C to Verilog
 date: 2024-07-13
+tags:
+  - c
+  - cpp
+  - verilog
+  - ocaml
 ---
-
-
 > [!warning] Disclaimer
 > I am still drafting this and could be one of my hardest projects so who knows how this goes.  
 > For now it is my thoughts alone and how far I am taking the project.
@@ -26,5 +29,3 @@ To Start:
 OCaml or any functional programming language work similarly to that of an FPGA board which always has an output for every input.
 
 Considering to use both C++ and OCaml each for different purposes.
-
-#c #cpp #verilog #ocaml

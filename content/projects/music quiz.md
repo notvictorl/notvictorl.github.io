@@ -1,9 +1,10 @@
 ---
 title: Music Quiz
 date: 2024-06-25
+tags:
+  - js
+  - nodejs
 ---
-#js #node
-
 ![[music-quiz.png]]
 
 [GitHub](https://github.com/fetf/music-quiz)
