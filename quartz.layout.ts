@@ -30,6 +30,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(
       Component.RecentNotes({
         title: "Recent Notes",
+        showTags: false,
         limit: 3,
         filter: (f) =>
           (f.slug!.startsWith("fpga/") && f.slug! !== "fpga/index" && !f.frontmatter?.noindex) ||
