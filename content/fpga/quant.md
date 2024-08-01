@@ -79,8 +79,8 @@ State Machines are fundamentally a set of states and take inputs that transition
 FIFOs additionally are very common in digital logic with both synchronous and asynchronous. You may know FIFO as First In, First Out from queue data structures in software. 
 
 Similarly, FIFOs are used as data buffers and manage pipelines in certain architectures.
-
 ## Verification
+FPGA teams are typically quite small in HFT firms, so developers and engineers often have to work many different jobs 
 ## Data processing
 
 ## Network
