@@ -19,7 +19,7 @@ struct victor {
 	<a href="https://github.com/notvictorl" target="_blank">
 	    <img class="logos" src="https://www.svgrepo.com/show/473620/github.svg" alt="GitHub" style="width: 40px; height: 40px;">
 	</a>
-	<a href="https://linked.com/in/victorliu2" target="_blank">
+	<a href="https://linkedin.com/in/victorliu2" target="_blank">
 	    <img class="logos" src="https://www.svgrepo.com/show/473701/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
 	</a>
 	<a href="mailto:victorliu2@protonmail.com" target="_blank">
