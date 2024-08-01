@@ -24,7 +24,7 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
-          <li>❤️</li>
+          <li>♡</li>
         </ul>
       </footer>
     )
