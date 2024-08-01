@@ -15,11 +15,17 @@ struct victor {
 };
 ```
 
-[LinkedIn](https://linkedin.com/in/victorliu2) [Email](mailto:victorliu2@protonmail.com)
-
-<a href="https://github.com/notvictorl" target="_blank">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.svg" alt="GitHub" style="width: 40px; height: 40px;">
-</a>
+<div style="display: flex; gap: 10px;">
+	<a href="https://github.com/notvictorl" target="_blank">
+	    <img src="https://www.svgrepo.com/show/473620/github.svg" alt="GitHub" style="width: 40px; height: 40px;">
+	</a>
+	<a href="https://linked.com/in/victorliu2" target="_blank">
+	    <img src="https://www.svgrepo.com/show/473701/linkedin.svg" alt="LinkedIn" style="width: 40px; height: 40px;">
+	</a>
+	<a href="mailto:victorliu2@protonmail.com" target="_blank">
+	    <img src="https://www.svgrepo.com/show/473621/gmail.svg" alt="Email" style="width: 40px; height: 40px;">
+	</a>
+</div>
 
 <h1>my name is <span style="color:#ffb7c5">victor liu</span></h1>
 
