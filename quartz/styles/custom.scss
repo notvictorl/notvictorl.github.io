@@ -26,6 +26,10 @@ body {
     filter: invert(100%);
 }
 
+[saved-theme="dark"] body[data-slug="index"] img[class*="logos"] {
+    filter: invert(100%);
+}
+
 [saved-theme="light"] body[data-slug="index"] span[class*="bw"] {
     color: black;
 }
