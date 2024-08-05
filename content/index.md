@@ -1,7 +1,7 @@
 ---
 title: Victor Liu
 ---
-<img style="float: right" src="./branch.svg" height="15%" max-height="203px" width="auto">  
+<img style="float: right" src="./branch.svg" height="10%" max-height="203px" width="auto">  
 
 # hi
 
