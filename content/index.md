@@ -18,7 +18,7 @@ struct victor {
 <h1>my name is <span style="color:#ffb7c5">victor liu</span></h1>
 
 Currently, a Computer Engineering student at University of Maryland.  
-	(ECE / EECS major at other schools)
+(ECE / EECS major at other schools)
 
 I'm passionate in <span style="color:#ffb7c5"><b>low-level software engineering</b></span> and <span style="color:#ffb7c5"><b>FPGA engineering</b></span>  
 and topics such as <span class="bw"><i>computer architecture</i></span> and <span class="bw"><i>operating systems</i></span>.
@@ -44,7 +44,7 @@ University of Maryland (UMIACS) Research Group
 
 Skills: Verilog, C++, HLS, Xilinx Vivado
 #### Software and Hardware Engineer - Terps Racing EV
-FSAE Electric Vehicle Racing Team
+FSAE Electric Vehicle Racing Team at UMD
 
 Skills: Embedded Systems / Microcontrollers, C, Hardware testing
 #### Software Engineer Intern - AstraZeneca
@@ -61,3 +61,5 @@ Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
 
 figuring out how to cook good meals outside of just frozen food 🍳  
 mostly cooking japanese food
+
+always trying to learn and hoping to help others learn
