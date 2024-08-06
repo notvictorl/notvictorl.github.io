@@ -19,7 +19,7 @@ CPUs have two issues that make them suboptimal for certain tasks in HFT:
 1. CPU needs to turn algorithms in to the ISA and execute sequentially, which has a lot of overhead
 2. CPU is indeterministic due to the OS running processes and threads
 ## FPGAs in Trading
-FPGAs solve indeterminism by being able to know the clock cycles and no ISA overhead, but it does not do complex math well so we still need software (so knowledge of CPU and [[computer architecture/index|computer organization (ENEE350)]] is great).
+FPGAs solve indeterminism by being able to know the clock cycles and no ISA overhead, but it does not do complex math well so we still need software (so knowledge of CPU and [[notes/computer architecture/index|computer organization (ENEE350)]] is great).
 
 
 ```mermaid
