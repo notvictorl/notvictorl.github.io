@@ -1,6 +1,7 @@
 ---
 title: State Machines
 date: 2024-01-01
+draft: "true"
 ---
 State machines are the most common building block for control logic and is used in simple to complex modules.
 > Example: Regular Expressions from CMSC330

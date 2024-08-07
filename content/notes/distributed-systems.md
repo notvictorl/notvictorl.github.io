@@ -27,4 +27,18 @@ Communication over the network occurs through message passing.
 
 All higher level functions of a standalone system can be expanded to encompass a distributed system.
 
+# Reasons for Distributed Systems
+
+**Resource Sharing**
+- Sharing files or printing at remote sites
+- Processing information in a distributed database
+- Using remote specialized hardware devices such as GPUs
+
+**Computation Speedup**
+- Distribute subcomputations among various sites to run concurrently
+- Load balancing - moving jobs to more lightly-loaded sites
+
+**Reliability**
+- Detect and recover from site failure, function transfer, reintegrate failed site
+
 > [!warning] To Be Continued

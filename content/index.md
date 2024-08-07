@@ -57,7 +57,7 @@ Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
 
 [[c-to-verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, but a much smaller scale. trying to understand the development of these tools mostly
 
-[[music quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
+[[music-quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
 figuring out how to cook good meals outside of just frozen food 🍳  
 mostly cooking japanese food

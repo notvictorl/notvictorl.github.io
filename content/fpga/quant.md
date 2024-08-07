@@ -19,7 +19,7 @@ CPUs have two issues that make them suboptimal for certain tasks in HFT:
 1. CPU needs to turn algorithms in to the ISA and execute sequentially, which has a lot of overhead
 2. CPU is indeterministic due to the OS running processes and threads
 ## FPGAs in Trading
-FPGAs solve indeterminism by being able to know the clock cycles and no ISA overhead, but it does not do complex math well so we still need software (so knowledge of CPU and [[notes/computer architecture/index|computer organization (ENEE350)]] is great).
+FPGAs solve indeterminism by being able to know the clock cycles and no ISA overhead, but it does not do complex math well so we still need software (so knowledge of CPU and [[notes/computer-architecture/index|computer organization (ENEE350)]] is great).
 
 
 ```mermaid
@@ -81,6 +81,8 @@ FIFOs additionally are very common in digital logic with both synchronous and as
 Similarly, FIFOs are used as data buffers and manage pipelines in certain architectures.
 ## Verification
 FPGA teams are typically quite small in HFT firms, so developers and engineers often have to work many different jobs 
+
+> [!warning] To Be Continued
 ## Data processing
 
 ## Network

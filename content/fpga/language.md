@@ -2,6 +2,9 @@
 title: Verilog Alternatives
 date: 2024-01-01
 ---
+> [!warning] Disclaimer
+> Incomplete Draft
+
 This page is kind of some notes on alternatives to Verilog or VHDL that helps me learn why developers want alternative tools to these existing HDLs.
 A good podcast that discusses this is from Ron Minsky and Andy Ray on [Signals and Threads: Programmable Hardware](https://signalsandthreads.com/programmable-hardware/).
 
