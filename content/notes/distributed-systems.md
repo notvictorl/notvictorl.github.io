@@ -9,7 +9,7 @@ Reference:
 \[1\] Professor Ashok K Agrawala - CMSC412 slides on Distributed Systems
 
 ---
-# Overview
+## Overview
 
 > A **distributed system** is a collection of loosely coupled nodes interconnected by a communications network.
 
@@ -27,7 +27,7 @@ Communication over the network occurs through message passing.
 
 All higher level functions of a standalone system can be expanded to encompass a distributed system.
 
-# Reasons for Distributed Systems
+## Reasons for Distributed Systems
 
 **Resource Sharing**
 - Sharing files or printing at remote sites
@@ -40,5 +40,9 @@ All higher level functions of a standalone system can be expanded to encompass a
 
 **Reliability**
 - Detect and recover from site failure, function transfer, reintegrate failed site
+
+## Network Structure
+### Local-Area Network (LAN)
+### Wide-Area Network (WAN)
 
 > [!warning] To Be Continued

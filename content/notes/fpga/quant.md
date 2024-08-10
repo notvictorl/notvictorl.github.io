@@ -9,8 +9,10 @@ I will often quote straight from articles if I don't have a good understanding o
 ---
 References:  
 [[1] The Data Bus](https://thedatabus.in/hft_interview) (goes into a lot of financial detail which is very interesting and explains it way better than I ever could)
+[\[2\] IMC Trading - IMC Engineering Masterclass 2024](https://youtu.be/RxxGPKhFWCk) 
 
 [^1]: [The Data Bus](https://thedatabus.in/hft_interview)
+[^1]: [IMC Engineering Masterclass](https://youtu.be/RxxGPKhFWCk)
 ---
 
 To start, why are FPGAs used in trading?
@@ -80,6 +82,8 @@ FIFOs additionally are very common in digital logic with both synchronous and as
 
 Similarly, FIFOs are used as data buffers and manage pipelines in certain architectures.
 ## Verification
+Verification is fundamental as compiling of FPGA designs can take days or even weeks thus simulating for early feedback within minutes, resulting in faster development iteration. After simulation further testing can be done on real FPGAs.^2
+
 FPGA teams are typically quite small in HFT firms, so developers and engineers often have to work many different jobs 
 
 > [!warning] To Be Continued

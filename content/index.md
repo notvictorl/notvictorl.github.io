@@ -53,7 +53,7 @@ Automation Engineering Team
 Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
 # working on
 
-[[fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
+[[notes/fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
 [[c-to-verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, but a much smaller scale. trying to understand the development of these tools mostly
 
