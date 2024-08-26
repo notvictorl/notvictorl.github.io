@@ -1,5 +1,6 @@
 ---
 title: FPGAs
+date: 2024-01-01
 ---
 > FPGA: Field-Programmable Gate Array
 
