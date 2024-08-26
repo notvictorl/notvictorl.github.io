@@ -1,8 +1,13 @@
 ---
 title: Computer Architecture
-draft: "true"
+draft: "false"
+date: 2024-01-01
 ---
-some self study notes  
-includes ideas from computer organization as well
+includes ideas from computer organization (ENEE350) as well due to high correlation
 
-Textbook: Computer Architecture - A Quantitative Approach
+Textbook: Computer Architecture - A Quantitative Approach  
+Classes Referenced: ENEE350, CMSC411, ENEE446/646
+
+---
+
+> [!warning] taking the class and writing these up...
