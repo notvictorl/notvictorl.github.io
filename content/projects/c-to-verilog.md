@@ -14,6 +14,9 @@ tags:
 > "If I wrote my code in something like C++, I would still be writing code."  
 > — Shane from [Stuff Made Here](https://www.youtube.com/@StuffMadeHere)
 
+This is an FPGA EDA (Electronic Design Automation)  
+Great reference is *FPGA EDA: Design Principles and Implementation* (Yu from UMD on it)
+
 So, I want to build a C to HDL tool or high-level synthesis in general, but designing one proves to be much harder than anticipated.
 
 I was thinking of maybe switching to programming this in OCaml as I am most familiar with designing a compiler in that currently from CMSC330.

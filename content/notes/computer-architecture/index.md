@@ -1,6 +1,5 @@
 ---
 title: Computer Architecture
-draft: "false"
 date: 2024-01-01
 ---
 includes ideas from computer organization (ENEE350) as well due to high correlation
