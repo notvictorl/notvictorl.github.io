@@ -9,7 +9,7 @@ title: Victor Liu
 // hi!
 struct victor {
 	string programming[] = {"C/C++", "Java", "Python", "JavaScript"};
-	string hardware[] = {"Verilog", "FPGAs", "SystemVerilog"};
+	string hardware[] = {"Verilog", "SystemVerilog", "FPGA"};
 	string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
 	// and more...
 };

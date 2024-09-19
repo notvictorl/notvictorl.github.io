@@ -1,4 +1,0 @@
----
-title: FIFO
-draft: "true"
----

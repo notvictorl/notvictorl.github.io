@@ -1,5 +1,5 @@
 ---
-title: Quant Trading
+title: FPGAs in Trading
 date: 2024-07-17
 ---
 Taking this note to explore how FPGAs can be used in quant trading / HFT (no experience in finance).
@@ -71,22 +71,33 @@ Alongside puzzles, sometimes assignments are given for the interview: "This ofte
 
 [More RTL Design Interview Tips](https://thedatabus.in/interview_list)
 ### Low Latency
-An important focus of FPGAs and Software in HFT is achieving low latency.  
+An important focus of FPGAs and Software in HFT is achieving low latency.
+
 This is achieved by writing code that takes less cycles to do a task through problem-solving different optimizations and low latency alternatives "while keeping it reasonable enough to be implemented within the timing constraints."[^1]
-### [[fsm|State Machine]]
+### [[|State Machine]]
 State Machines are very common block used in digital logic (so FPGAs and sometimes software) and can be used for a lot of purposes.
 
 State Machines are fundamentally a set of states and take inputs that transition them to other possible states.
 ### [[fifo|FIFO]]
+> FIFO: First In, First Out
+
 FIFOs additionally are very common in digital logic with both synchronous and asynchronous. You may know FIFO as First In, First Out from queue data structures in software. 
 
 Similarly, FIFOs are used as data buffers and manage pipelines in certain architectures.
+
+FIFOs reduce latency and increase efficiency by allowing data processing to happen without waiting and ensures market data is not lost.
 ## Verification
 Verification is fundamental as compiling of FPGA designs can take days or even weeks thus simulating for early feedback within minutes, resulting in faster development iteration. After simulation further testing can be done on real FPGAs.^2
 
-FPGA teams are typically quite small in HFT firms, so developers and engineers often have to work many different jobs 
+FPGA teams are typically quite small in HFT firms, so developers and engineers often have to work many different hats to deliver a project, which is great for growth. 
 
-> [!warning] To Be Continued
+Verification is important because the size of trades mean a single bug could lead to losses for a few years. Thus be comfortable with simulations and debugging through waveforms.
+
+Writing efficient test benches and test cases for your code is invaluable often in **SystemVerilog** and UVM.
+
+Important to note is both design and verification need to be handled by the same person and both skills need to be showcased.
+## Networking
+
 ## Data processing
 
 ## Network
