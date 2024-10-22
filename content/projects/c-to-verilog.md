@@ -6,6 +6,7 @@ tags:
   - cpp
   - verilog
   - ocaml
+draft: "true"
 ---
 > [!warning] Disclaimer
 > I am still drafting this and could be one of my hardest projects so who knows how this goes.  

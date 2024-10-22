@@ -8,7 +8,7 @@ title: Victor Liu
 ```cpp
 // hi!
 struct victor {
-	string programming[] = {"C/C++", "Java", "Python", "JavaScript"};
+	string programming[] = {"C/C++", "Python", "Java", "JavaScript"};
 	string hardware[] = {"Verilog", "SystemVerilog", "FPGA"};
 	string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
 	// and more...
@@ -20,7 +20,7 @@ struct victor {
 > Currently, a Computer Engineering student at University of Maryland.  
 > 
 > I'm passionate in <span style="color:#ffb7c5"><b>systems software engineering</b></span> and <span style="color:#ffb7c5"><b>FPGA engineering</b></span>  
-> and topics such as <span class="bw"><i>computer architecture</i></span> and <span class="bw"><i>operating systems</i></span>.
+> and topics such as <span class="bw"><i>distributed systems, computer architecture</i></span> and <span class="bw"><i>operating systems</i></span>.
 
 here you can find a bit about me, a showcase of my crafts, and a notebook on a few of my thoughts.  
 enjoy~
@@ -53,9 +53,9 @@ Automation Engineering Team
 Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
 # working on
 
-[[notes/fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
+lots of school
 
-[[c-to-verilog|C to Verilog]]: Similar to High-Level Synthesis and Hardcaml, but a much smaller scale. trying to understand the development of these tools mostly
+[[notes/fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
 [[music-quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
 
