@@ -1,6 +1,6 @@
 ---
 title: Docker
-draft: "true"
+draft: "false"
 date: 2024-08-06
 ---
 Entirely adopted Anwar Mamat's slides on Docker with no changes due to how straightforward the topic is.
@@ -45,5 +45,3 @@ Reference
 - Microservices can be decoupled with different cloud services
 - Usually more cost effective
 - Probably covered in more in a Cloud Computing class
-
-> [!warning] to be continued (maybe)

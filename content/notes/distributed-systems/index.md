@@ -40,9 +40,3 @@ All higher level functions of a standalone system can be expanded to encompass a
 
 **Reliability**
 - Detect and recover from site failure, function transfer, reintegrate failed site
-
-## Network Structure
-### Local-Area Network (LAN)
-### Wide-Area Network (WAN)
-
-> [!warning] To Be Continued

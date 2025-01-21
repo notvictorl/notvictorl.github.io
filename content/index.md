@@ -8,8 +8,8 @@ title: Victor Liu
 ```cpp
 // hi!
 struct victor {
-	string programming[] = {"C/C++", "Python", "Java", "JavaScript"};
-	string hardware[] = {"Verilog", "SystemVerilog", "FPGA"};
+	string programming[] = {"C/C++", "Python", "Java"};
+	string hardware[] = {"SystemVerilog", "FPGA"};
 	string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
 	// and more...
 };
@@ -39,7 +39,7 @@ enjoy~
 
 # experience
 
-#### FPGA Engineering Intern - Computer Architecture and Systems Lab
+#### FPGA Engineer Intern - Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
 
 Skills: Verilog, C++, HLS, Xilinx Vivado
@@ -50,14 +50,14 @@ Skills: Embedded Systems / Microcontrollers, C, Hardware testing
 #### Software Engineer Intern - AstraZeneca
 Automation Engineering Team
 
-Skills: Full-Stack, JavaScript, PHP, Node.js, HTML, CSS, SQLite
+Skills: Full-Stack, JavaScript, PHP, HTML, CSS, SQLite
 # working on
 
 lots of school
 
-[[notes/fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
+[[notes/distributed-systems/index|Distributed Systems]]: actually using distributed systems especially with modern C++ for better computing
 
-[[music-quiz|Music Quiz]]: for fun, a discord bot (NodeJS) that plays songs and the player guesses the song and artist by typing
+[[notes/fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
 
 figuring out how to cook good meals outside of just frozen food 🍳  
 mostly cooking japanese food
