@@ -56,7 +56,6 @@ flowchart LR
 
 # Skills of an HFT FPGA Engineer
 Now to the meat of what an FPGA Engineer does in quant and what skills will be challenged at the interview stage  
-Many of these skills can align with skills mentioned in [[skills|FPGA Skills]]
 
 ## RTL Design
 > RTL: Register-Transfer Level
@@ -96,16 +95,3 @@ Verification is important because the size of trades mean a single bug could lea
 Writing efficient test benches and test cases for your code is invaluable often in **SystemVerilog** and UVM.
 
 Important to note is both design and verification need to be handled by the same person and both skills need to be showcased.
-## Networking
-
-## Data processing
-
-## Network
-
-### Ethernet
-
-### PCIe
-
-## HLS Algorithms
-
-## Building tools 

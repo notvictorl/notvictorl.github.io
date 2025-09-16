@@ -39,11 +39,15 @@ enjoy~
 
 # experience
 
+#### Software Engineer Intern - Amazon
+PXT - Boston, MA
+
+Skills: TypeScript, Kotlin, DynamoDB, AWS Lambda
 #### FPGA Engineer Intern - Computer Architecture and Systems Lab
 University of Maryland (UMIACS) Research Group
 
 Skills: Verilog, C++, HLS, Xilinx Vivado
-#### Software and Hardware Engineer - Terps Racing EV
+#### Embedded Software Engineer - Terps Racing EV
 FSAE Electric Vehicle Racing Team at UMD
 
 Skills: Embedded Systems / Microcontrollers, C, Hardware testing
@@ -53,13 +57,11 @@ Automation Engineering Team
 Skills: Full-Stack, JavaScript, PHP, HTML, CSS, SQLite
 # working on
 
-lots of school
+finishing up my undergrad and applying to new grad jobs
 
 [[notes/distributed-systems/index|Distributed Systems]]: actually using distributed systems especially with modern C++ for better computing
 
-[[notes/fpga/index|FPGA]]: learning about FPGAs specifically how to connect them to software and accelerating computing and its applications such as accelerating AI, high performance computing, and trading.
-
 figuring out how to cook good meals outside of just frozen food 🍳  
-mostly cooking japanese food
+mostly cooking homestyle japanese food
 
 always trying to learn and hoping to help others learn
