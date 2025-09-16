@@ -73,11 +73,11 @@ Alongside puzzles, sometimes assignments are given for the interview: "This ofte
 An important focus of FPGAs and Software in HFT is achieving low latency.
 
 This is achieved by writing code that takes less cycles to do a task through problem-solving different optimizations and low latency alternatives "while keeping it reasonable enough to be implemented within the timing constraints."[^1]
-### [[|State Machine]]
+### State Machines
 State Machines are very common block used in digital logic (so FPGAs and sometimes software) and can be used for a lot of purposes.
 
 State Machines are fundamentally a set of states and take inputs that transition them to other possible states.
-### [[fifo|FIFO]]
+### FIFO
 > FIFO: First In, First Out
 
 FIFOs additionally are very common in digital logic with both synchronous and asynchronous. You may know FIFO as First In, First Out from queue data structures in software. 
