@@ -29,6 +29,9 @@ export default {
       lightMode: "حالت روشن",
       darkMode: "حالت تاریک",
     },
+    readerMode: {
+      title: "حالت خواندن",
+    },
     explorer: {
       title: "مطالب",
     },
@@ -65,6 +68,7 @@ export default {
     error: {
       title: "یافت نشد",
       notFound: "این صفحه یا خصوصی است یا وجود ندارد",
+      home: "بازگشت به صفحه اصلی",
     },
     folderContent: {
       folder: "پوشه",
