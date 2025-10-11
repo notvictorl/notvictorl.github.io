@@ -1,7 +1,6 @@
 ---
 draft: "true"
 title: Scripting and Automation
-draft: "true"
 ---
 Scripting and Automation in order to speed up FPGA development workflow
 
