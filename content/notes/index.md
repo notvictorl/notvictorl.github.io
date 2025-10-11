@@ -1,5 +1,6 @@
 ---
 title: Notebook
+draft: "true"
 ---
 A notebook on the topics I wanted to learn the most on from classes and other material.  
 Might also be some thoughts of mine

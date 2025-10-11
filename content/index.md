@@ -8,7 +8,7 @@ title: Victor Liu
 ```cpp
 // hi!
 struct victor {
-	string programming[] = {"C/C++", "Python", "Java"};
+	string programming[] = {"C/C++", "Python", "Java", "TypeScript"};
 	string hardware[] = {"SystemVerilog", "FPGA"};
 	string hobbies[] = {"cooking", "reading", "music", "puzzle games"};
 	// and more...
@@ -58,8 +58,6 @@ Skills: Full-Stack, JavaScript, PHP, HTML, CSS, SQLite
 # working on
 
 finishing up my undergrad and applying to new grad jobs
-
-[[notes/distributed-systems/index|Distributed Systems]]: actually using distributed systems especially with modern C++ for better computing
 
 figuring out how to cook good meals outside of just frozen food 🍳  
 mostly cooking homestyle japanese food

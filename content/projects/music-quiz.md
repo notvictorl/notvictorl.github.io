@@ -1,9 +1,6 @@
 ---
 title: Music Quiz
 date: 2024-06-25
-tags:
-  - javascript
-  - nodejs
 ---
 ![[music-quiz.png]]
 

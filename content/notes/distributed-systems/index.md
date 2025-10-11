@@ -1,6 +1,7 @@
 ---
 title: Distributed Systems
 date: 2024-01-01
+draft: "true"
 ---
 Some notes on distributed systems as I always have been curious on how to apply it.  
 Mostly adapted from CMSC412's overview of Distributed Systems.

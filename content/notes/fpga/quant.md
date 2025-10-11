@@ -1,6 +1,7 @@
 ---
 title: FPGAs in Trading
 date: 2024-07-17
+draft: "true"
 ---
 Taking this note to explore how FPGAs can be used in quant trading / HFT (no experience in finance).
 

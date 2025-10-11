@@ -1,6 +1,6 @@
 ---
 title: Docker
-draft: "false"
+draft: "true"
 date: 2024-08-06
 ---
 Entirely adopted Anwar Mamat's slides on Docker with no changes due to how straightforward the topic is.
